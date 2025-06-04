@@ -1,0 +1,7 @@
+streamlit
+tweepy
+textblob
+spotipy
+nltk
+qrcode
+pillow
