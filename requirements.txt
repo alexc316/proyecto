@@ -5,3 +5,4 @@ spotipy
 nltk
 qrcode
 pillow
+pyttsx3
